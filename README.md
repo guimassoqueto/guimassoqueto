@@ -9,7 +9,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente trabalhando com algoritmos de negociação.
-- 🌱 Aprendendo Go, Blockchain e Redes de Computadores e Francês (j'essaie).
+- 🌱 Aprendendo Go, Blockchain Redes de Computadores e Francês (j'essaie).
 - 👯 Procuro colaborar em projetos Web, APIs, Bancos de dados e AWS, ou qualquer coisa que tenha Linux envolvido.
 - 💬 Vamos conversar sobre negócios, algoritmos de negociação, APIs, geopolítica e sociedade, filmes e video games.
 - 📫 Como me contactar: gui.massoqueto@outlook.com
