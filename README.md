@@ -1,5 +1,5 @@
 ## Main Software Languages
-<style>
+<style type="text/css" rel="stylesheet">
 * {
   box-sizing: border-box;
 }
