@@ -18,7 +18,6 @@ Currently studying Deep Learning/IA.
 
 #### Package Managers
 <p>
- <img src="https://github.com/guimassoqueto/logos/blob/main/conda.svg" alt="Conda" title="Conda" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/pypi.svg" alt="Pypi" title="Pypi" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/yarn.svg" alt="Yarn" title="Yarn" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/npm-icon.svg" alt="NPM" title="NPM" height="50">
