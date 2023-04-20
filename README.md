@@ -11,9 +11,9 @@ Currently studying Deep Learning/IA.
 
 #### Programming Languages
 <p>
- <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" height="50">
- <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Typescript" title="Typescript" height="50">
- <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/python.svg" alt="Python" title="Python" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/typescript-icon.svg" alt="Typescript" title="Typescript" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/java.svg" alt="Java" title="Java" height="50">
 </p>
 
 #### Package Managers
@@ -25,10 +25,10 @@ Currently studying Deep Learning/IA.
 
 #### Databases
 <p>
- <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="Postgres" title="Postgres" height="50">
- <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" height="50">
- <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" title="Redis" height="50">
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/postgresql.svg" alt="Postgres" title="Postgres" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/mysql-icon.svg" alt="MySQL" title="MySQL" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/redis.svg" alt="Redis" title="Redis" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/mongodb-icon.svg" alt="MongoDB" title="MongoDB" height="50">
 </p>
 
 #### Communication
