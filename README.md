@@ -2,7 +2,7 @@
 
 TDD, Clean Architecture, Design Patterns entusiast.
 wtih
-To make it clear, I only know a little more than the basics of front end development. I'm able to work with React and Angular, but only with simple apps.
+To make it clear, I only know a little more than the basics of front end development. I'm able to work with React and Angular, but only with simple apps.  
 **If you are looking for a Front End Specialist, I am not what you are looking for.**
 
 Currently studying Deep Learning/IA. 
