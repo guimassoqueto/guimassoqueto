@@ -9,7 +9,7 @@ Currently studying Deep Learning/IA.
 
 ## My Main Stack
 
-#### Software Languages
+#### Programming Languages
 <p>
  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Typescript" title="Typescript" height="50">
@@ -43,6 +43,7 @@ Currently studying Deep Learning/IA.
  <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" title="Bash" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/terraform-icon.svg" alt="Terraform" title="Terraform" height="50">
 </p>
 
 #### Operating System
