@@ -33,16 +33,16 @@ Currently studying Deep Learning/IA.
 
 #### Communication
 <p>
- <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/graphql.svg" alt="GraphQL" title="GraphQL" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" height="50">
 </p>
 
 #### Version Control
 <p>
- <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" height="50">
- <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" height="50">
- <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/git-icon.svg" alt="Git" title="Git" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/github-octocat.svg" alt="GitHub" title="GitHub" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/gitlab.svg" alt="GitLab" title="GitLab" height="50">
 </p>
 
 #### DevOps
