@@ -16,6 +16,14 @@ Currently studying Deep Learning/IA.
  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" height="50">
 </p>
 
+#### Package Managers
+<p>
+ <img src="https://github.com/guimassoqueto/logos/blob/main/conda.svg" alt="Conda" title="Conda" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/pypi.svg" alt="Pypi" title="Pypi" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/yarn.svg" alt="Yarn" title="Yarn" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/npm-icon.svg" alt="NPM" title="NPM" height="50">
+</p>
+
 #### Databases
 <p>
  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="Postgres" title="Postgres" height="50">
