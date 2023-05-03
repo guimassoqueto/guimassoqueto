@@ -35,6 +35,7 @@ Currently studying Deep Learning/IA.
  <img src="https://github.com/guimassoqueto/logos/blob/main/graphql.svg" alt="GraphQL" title="GraphQL" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" height="50">
+  <img src="https://raw.githubusercontent.com/guimassoqueto/logos/ca5e528b532895d8ff463058176a7537df0dd30b/grpc.svg" alt="GRPC" title="GRPC" height="50">
 </p>
 
 #### Version Control
