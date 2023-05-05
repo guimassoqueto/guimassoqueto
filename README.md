@@ -1,8 +1,7 @@
 ## About
 
 TDD, Clean Architecture, Design Patterns entusiast.  
-To make it clear, I'm able to work with React on the front-end, and do basic design stuff with CSS and style libraries like Tailwind and styled-components. Not much more than that.  
-**If you are looking for a Front End Specialist, I am not what you are looking for.**
+**I'm not a Front End Specialist.**
 
 ## My Main Stack
 
