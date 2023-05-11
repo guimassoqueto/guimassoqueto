@@ -1,9 +1,8 @@
 ## About
 
-TDD, Clean Architecture, Design Patterns entusiast.  
-**I'm not a Front End Specialist.**
+TDD, Clean Architecture, SOLID and Design Patterns entusiast.  
 
-## My Main Stack
+## Main Stack
 
 #### Programming Languages
 <p>
