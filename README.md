@@ -61,3 +61,8 @@ TDD, Clean Architecture, SOLID and Design Patterns entusiast.
  <img src="https://github.com/guimassoqueto/logos/blob/main/aws.svg" alt="Amazon Web Services" title="Amazon Web Services" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/google-cloud.svg" alt="Google Cloud Platform" title="Google Cloud Platform" height="50">
 </p>
+
+Repos to track:
+[Scraper Node](https://github.com/guimassoqueto/scraper-puppeteer)
+[Scraper Python](https://github.com/guimassoqueto/scraper-beautiful-soup)
+[Node API](https://github.com/guimassoqueto/node-clean-api)
