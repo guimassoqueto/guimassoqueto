@@ -13,7 +13,7 @@ Interested in back-end development, architecture design, end-to-end development,
  <img src="https://github.com/guimassoqueto/logos/blob/main/php.svg" alt="PHP" title="PHP" height="50">
 </p>
 
-#### Programming Languages (Learning)
+#### Programming Languages (Learning and practicing, but no working experience)
 <p>
  <img src="https://github.com/guimassoqueto/logos/blob/main/gopher.svg" alt="Go" title="Go" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/rust.svg" alt="Rust" title="Rust" height="50">
