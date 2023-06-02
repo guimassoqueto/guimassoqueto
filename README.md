@@ -9,6 +9,7 @@ TDD, Clean Architecture, SOLID and Design Patterns entusiast.
  <img src="https://github.com/guimassoqueto/logos/blob/main/python.svg" alt="Python" title="Python" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/typescript-icon.svg" alt="Typescript" title="Typescript" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/java.svg" alt="Java" title="Java" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/php.svg" alt="PHP" title="PHP" height="50">
 </p>
 
 #### Programming Languages (Learning)
