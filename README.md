@@ -59,9 +59,9 @@ Interested in back-end development, architecture design, end-to-end development,
 
 #### Operating System
 <p>
- <img src="https://github.com/guimassoqueto/logos/blob/main/ubuntu.svg" alt="Ubuntu" title="Ubuntu" height="50">
- <img src="https://github.com/guimassoqueto/logos/blob/main/fedora.svg" alt="Fedora" title="Fedora" height="50">
- <img src="https://github.com/guimassoqueto/logos/blob/main/microsoft-windows-icon.svg" alt="Windows" title="Windows" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/debian.svg" alt="Debian Linux distros" title="Debian Linux Ditibutions" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/redhat.svg" alt="RedHaat Linux distros" title="RedHat Linux Distributions" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/microsoft-windows-icon.svg" alt="Windows" title="Microsoft Windows" height="50">
 </p>
 
 #### Cloud
