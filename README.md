@@ -4,11 +4,17 @@ TDD, Clean Architecture, SOLID and Design Patterns entusiast.
 
 ## Main Stack
 
-#### Programming Languages
+#### Programming Languages (Experienced)
 <p>
  <img src="https://github.com/guimassoqueto/logos/blob/main/python.svg" alt="Python" title="Python" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/typescript-icon.svg" alt="Typescript" title="Typescript" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/java.svg" alt="Java" title="Java" height="50">
+</p>
+
+#### Programming Languages (Learning)
+<p>
+ <img src="https://github.com/guimassoqueto/logos/blob/main/gopher.svg" alt="Go" title="Go" height="50">
+ <img src="https://github.com/guimassoqueto/logos/blob/main/rust.svg" alt="Rust" title="Rust" height="50">
 </p>
 
 #### Package Managers
