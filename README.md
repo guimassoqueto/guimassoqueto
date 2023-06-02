@@ -1,6 +1,7 @@
 ## About
 
 TDD, Clean Architecture, SOLID and Design Patterns entusiast.  
+Interested in back-end development, architecture design, end-to-end development, web scraping and data mining.
 
 ## Main Stack
 
