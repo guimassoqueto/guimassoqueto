@@ -19,13 +19,6 @@ Interested in back-end development, architecture design, end-to-end development,
  <img src="https://github.com/guimassoqueto/logos/blob/main/rust.svg" alt="Rust" title="Rust" height="50">
 </p>
 
-#### Package Managers
-<p>
- <img src="https://github.com/guimassoqueto/logos/blob/main/pypi.svg" alt="Pypi" title="Pypi" height="50">
- <img src="https://github.com/guimassoqueto/logos/blob/main/yarn.svg" alt="Yarn" title="Yarn" height="50">
- <img src="https://github.com/guimassoqueto/logos/blob/main/npm-icon.svg" alt="NPM" title="NPM" height="50">
-</p>
-
 #### Databases
 <p>
  <img src="https://github.com/guimassoqueto/logos/blob/main/postgresql.svg" alt="Postgres" title="Postgres" height="50">
