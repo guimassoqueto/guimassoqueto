@@ -63,8 +63,8 @@ Interested in back-end development, architecture design, end-to-end development,
  <img src="https://github.com/guimassoqueto/logos/blob/main/google-cloud.svg" alt="Google Cloud Platform" title="Google Cloud Platform" height="50">
 </p>
 
-Repos to track:
+Repos to track:  
 [Scraper Node Puppeteer](https://github.com/guimassoqueto/scraper-puppeteer)  
-[Scraper Python Scrapy]([https://github.com/guimassoqueto/scraper-beautiful-soup](https://github.com/guimassoqueto/scraper-scrapy))  
-[Scraper Python BeautifulSoup]([https://github.com/guimassoqueto/scraper-beautiful-soup]([https://github.com/guimassoqueto/scraper-scrapy](https://github.com/guimassoqueto/scraper-beautiful-soup)))  
+[Scraper Python Scrapy](https://github.com/guimassoqueto/scraper-scrapy)   
+[Scraper Python BeautifulSoup](https://github.com/guimassoqueto/scraper-beautiful-soup)  
 [Node API](https://github.com/guimassoqueto/node-clean-api)  
