@@ -64,7 +64,9 @@ Interested in back-end development, architecture design, end-to-end development,
 </p>
 
 Repos to track:  
-[Scraper Node Puppeteer](https://github.com/guimassoqueto/scraper-puppeteer)  
-[Scraper Python Scrapy](https://github.com/guimassoqueto/scraper-scrapy)   
-[Scraper Python BeautifulSoup](https://github.com/guimassoqueto/scraper-beautiful-soup)  
+
+[Scrapy](https://github.com/guimassoqueto/scraper-scrapy)   
+[BS](https://github.com/guimassoqueto/scraper-beautiful-soup)  
+[Puppet](https://github.com/guimassoqueto/scraper-puppeteer)  
+[Flask](https://github.com/guimassoqueto/python-flask-app)  
 [Node API](https://github.com/guimassoqueto/node-clean-api)  
