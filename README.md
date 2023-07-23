@@ -10,13 +10,11 @@ Interested in back-end development, architecture design, end-to-end development,
  <img src="https://github.com/guimassoqueto/logos/blob/main/python.svg" alt="Python" title="Python" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/typescript-icon.svg" alt="Typescript" title="Typescript" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/java.svg" alt="Java" title="Java" height="50">
- <img src="https://github.com/guimassoqueto/logos/blob/main/php.svg" alt="PHP" title="PHP" height="50">
 </p>
 
 #### Programming Languages (Practicing)
 <p>
  <img src="https://github.com/guimassoqueto/logos/blob/main/gopher.svg" alt="Go" title="Go" height="50">
- <img src="https://github.com/guimassoqueto/logos/blob/main/rust.svg" alt="Rust" title="Rust" height="50">
 </p>
 
 #### Databases
