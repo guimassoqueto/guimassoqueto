@@ -62,13 +62,13 @@ Interested in back-end development, architecture design, end-to-end development,
 </p>
 
 Repos to track:  
-[Migrations](https://github.com/guimassoqueto/migrations)  
-[Scrap-Scrapy](https://github.com/guimassoqueto/scrap-scrapy)  
-[Scrap-Puppet-Bestsellers](https://github.com/guimassoqueto/scrap-puppet-bestsellers)  
-[Scrap-Template-Requester](https://github.com/guimassoqueto/scrap-template-requester)  
-[Scrap-Colly](https://github.com/guimassoqueto/scrap-colly)  
-[Scrap-Puppet](https://github.com/guimassoqueto/scrap-puppet)  
-[Scrap-Flask](https://github.com/guimassoqueto/scrap-flask)  
+Go - [Migrations](https://github.com/guimassoqueto/migrations)  
+Python - [Scrap-Scrapy](https://github.com/guimassoqueto/scrap-scrapy)  
+Node Typescript - [Scrap-Puppet-Bestsellers](https://github.com/guimassoqueto/scrap-puppet-bestsellers)  
+Python - [Scrap-Template-Requester](https://github.com/guimassoqueto/scrap-template-requester)  
+Go - [Scrap-Colly](https://github.com/guimassoqueto/scrap-colly)  
+Node Typescript - [Scrap-Puppet](https://github.com/guimassoqueto/scrap-puppet)  
+Python - [Scrap-Flask](https://github.com/guimassoqueto/scrap-flask)  
 
 
 [Node API](https://github.com/guimassoqueto/node-clean-api)  
