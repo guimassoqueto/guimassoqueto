@@ -62,9 +62,13 @@ Interested in back-end development, architecture design, end-to-end development,
 </p>
 
 Repos to track:  
+[Migrations](https://github.com/guimassoqueto/migrations)  
+[Scrap-Scrapy](https://github.com/guimassoqueto/scrap-scrapy)  
+[Scrap-Puppet-Bestsellers](https://github.com/guimassoqueto/scrap-puppet-bestsellers)  
+[Scrap-Template-Requester](https://github.com/guimassoqueto/scrap-template-requester)  
+[Scrap-Colly](https://github.com/guimassoqueto/scrap-colly)  
+[Scrap-Puppet](https://github.com/guimassoqueto/scrap-puppet)  
+[Scrap-Flask](https://github.com/guimassoqueto/scrap-flask)  
 
-[Scrapy](https://github.com/guimassoqueto/scrap-scrapy)   
-[Colly](https://github.com/guimassoqueto/scrap-colly)  
-[Puppet](https://github.com/guimassoqueto/scrap-puppet)  
-[Flask](https://github.com/guimassoqueto/scrap-flask)  
+
 [Node API](https://github.com/guimassoqueto/node-clean-api)  
