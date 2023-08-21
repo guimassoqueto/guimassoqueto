@@ -5,7 +5,7 @@ Interested in back-end development, architecture design, end-to-end development,
 
 ## Main Stack
 
-#### Programming Languages (Experienced)
+#### Programming Languages (Experienced) 
 <p>
  <img src="https://github.com/guimassoqueto/logos/blob/main/python.svg" alt="Python" title="Python" height="50">
  <img src="https://github.com/guimassoqueto/logos/blob/main/typescript-icon.svg" alt="Typescript" title="Typescript" height="50">
