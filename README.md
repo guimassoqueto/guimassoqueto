@@ -64,7 +64,6 @@ Interested in back-end development, architecture design, end-to-end development,
 Repos to track:  
 Go - [Migrations](https://github.com/guimassoqueto/migrations)  
 Python - [Scrap-Scrapy](https://github.com/guimassoqueto/scrap-scrapy)  
-Node Typescript - [Scrap-Puppet-Bestsellers](https://github.com/guimassoqueto/scrap-puppet-bestsellers)  
 Python - [Scrap-Template-Requester](https://github.com/guimassoqueto/scrap-template-requester)  
 Go - [Scrap-Colly](https://github.com/guimassoqueto/scrap-colly)  
 Node Typescript - [Scrap-Puppet](https://github.com/guimassoqueto/scrap-puppet)  
