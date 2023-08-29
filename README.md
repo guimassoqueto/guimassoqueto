@@ -67,7 +67,7 @@ Python - [Scrap-Scrapy](https://github.com/guimassoqueto/scrap-scrapy)
 Python - [Scrap-Template-Requester](https://github.com/guimassoqueto/scrap-template-requester)  
 Go - [Scrap-Colly](https://github.com/guimassoqueto/scrap-colly)  
 Node Typescript - [Scrap-Puppet](https://github.com/guimassoqueto/scrap-puppet)  
-Python - [Scrap-Flask](https://github.com/guimassoqueto/scrap-flask)  
+Go - [Scrap-Fiber](https://github.com/guimassoqueto/scrap-flask)  
 Python - [Scrap-Sports](https://github.com/guimassoqueto/scrap-sports)
 
 
