@@ -61,7 +61,8 @@ Interested in back-end development, architecture design, end-to-end development,
  <img src="https://github.com/guimassoqueto/logos/blob/main/google-cloud.svg" alt="Google Cloud Platform" title="Google Cloud Platform" height="50">
 </p>
 
-Repos to track:  
+For personal reference (all private):  
+Python [SAB](https://github.com/guimassoqueto/scrap-amazon-bestsellers)
 Go - [Migrations](https://github.com/guimassoqueto/migrations)  
 Python - [Scrap-Scrapy](https://github.com/guimassoqueto/scrap-scrapy)  
 Python - [Scrap-Template-Requester](https://github.com/guimassoqueto/scrap-template-requester)  
