@@ -62,14 +62,14 @@ Interested in back-end development, architecture design, end-to-end development,
 </p>
 
 For personal reference (all private):  
-Python [SAB](https://github.com/guimassoqueto/scrap-amazon-bestsellers)
-Go - [Migrations](https://github.com/guimassoqueto/migrations)  
-Python - [Scrap-Scrapy](https://github.com/guimassoqueto/scrap-scrapy)  
-Python - [Scrap-Template-Requester](https://github.com/guimassoqueto/scrap-template-requester)  
-Go - [Scrap-Colly](https://github.com/guimassoqueto/scrap-colly)  
-Node Typescript - [Scrap-Puppet](https://github.com/guimassoqueto/scrap-puppet)  
-Go - [Scrap-Fiber](https://github.com/guimassoqueto/scrap-flask)  
-Python - [Scrap-Sports](https://github.com/guimassoqueto/scrap-sports)
-
-
-[Node API](https://github.com/guimassoqueto/node-clean-api)  
+Python [SAB](https://github.com/guimassoqueto/scrap-amazon-bestsellers)  
+Python [SAD](https://github.com/guimassoqueto/scrap-amazon-deals)  
+Go [SC](https://github.com/guimassoqueto/scrap-colly)  
+Go [SF](https://github.com/guimassoqueto/scrap-fiber)
+Python [SM](https://github.com/guimassoqueto/scrap-magalu)  
+Python [SMT](https://github.com/guimassoqueto/scrap-magalu-thief)  
+Typescript [SP](https://github.com/guimassoqueto/scrap-puppet)  
+Python [SSR](https://github.com/guimassoqueto/scrap-scraper-requester)  
+Python [SS](https://github.com/guimassoqueto/scrap-sports)  
+Python [STR](https://github.com/guimassoqueto/scrap-template-requester)  
+Python [ST](https://github.com/guimassoqueto/scrap-thif)  
