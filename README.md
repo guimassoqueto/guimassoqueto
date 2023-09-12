@@ -73,3 +73,6 @@ Python [SSR](https://github.com/guimassoqueto/scrap-scraper-requester)
 Python [SS](https://github.com/guimassoqueto/scrap-sports)  
 Python [STR](https://github.com/guimassoqueto/scrap-template-requester)  
 Python [ST](https://github.com/guimassoqueto/scrap-thief)  
+
+
+
