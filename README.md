@@ -26,7 +26,8 @@ class Guilherme extends Human {
     Events:         ["RabbitMQ", "Kafka", "Redis"];
     Design:         ["Bootstrap", "Styled Components", "CSS"];
     CloudComputing: ["AWS", "GCP", "Docker", "Kubernetes"];
-    CICD:           ["Gitlab", "Github Actions"]
+    CICD:           ["Gitlab", "Github Actions"];
+    OS:             ["Ubuntu", "Mint", "RedHat"].push("Loading more Linux distros...")
   };
 }
 ```
