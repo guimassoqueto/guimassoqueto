@@ -19,7 +19,7 @@ class Guilherme extends Human {
   ];
   
   technologies: {
-    JavaScript:     ["React.js", "Puppeteer"];
+    JavaScript:     ["React", "Express", "Jest"];
     Python:         ["Django", "FastAPI", "Flask", "Celery", "Pandas"];
     GoLang:         ["Gin", "Fiber", "net/http", "Colly", "ChromeDP"];
     APIs:           ["REST", "GraphQL"];
