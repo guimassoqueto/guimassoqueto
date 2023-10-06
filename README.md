@@ -40,7 +40,7 @@ class Guilherme extends Human {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimassoqueto&theme=github_dark&layout=compact" />
 </p>
 
-## Main Interests (Now)
+## Interests
 * Golang
 * TDD
 * System Design
