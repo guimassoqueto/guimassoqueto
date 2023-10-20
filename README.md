@@ -1,4 +1,4 @@
-## About
+## About 
 
 ```typescript
 class Guilherme extends Human {
