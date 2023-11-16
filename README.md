@@ -14,20 +14,19 @@ class Guilherme extends Human {
   languages: Array<string> = [
     "Portuguese",
     "English",
-    "Spanish",
-    "French",
+    "Spanish"
   ];
   
   technologies: {
-    JavaScript:     ["React", "Express", "Jest"];
-    Python:         ["Django", "FastAPI", "Flask", "Celery", "Pandas"];
-    GoLang:         ["Gin", "Fiber", "net/http", "Colly", "ChromeDP"];
-    APIs:           ["REST", "GraphQL"];
-    Events:         ["RabbitMQ", "Kafka", "Redis"];
-    Design:         ["Bootstrap", "Styled Components", "CSS"];
-    CloudComputing: ["AWS", "GCP", "Docker", "Kubernetes"];
-    CICD:           ["Gitlab", "Github Actions"];
-    OS:             ["Ubuntu", "Mint", "RedHat"].push("Loading more Linux distros...")
+    JavaScript:     ["React", "Express", "Jest"],
+    Python:         ["Django", "FastAPI", "Flask", "Celery", "Pandas"],
+    GoLang:         ["Gin", "Fiber", "net/http", "Colly", "ChromeDP"],
+    APIs:           ["REST", "GraphQL"],
+    Events:         ["RabbitMQ", "Kafka", "Redis"],
+    Design:         ["Bootstrap", "Styled Components", "CSS"],
+    CloudComputing: ["AWS", "GCP", "Docker", "Kubernetes"],
+    CICD:           ["Gitlab", "Github Actions"],
+    OS:             ["Ubuntu", "RedHat"],
   };
 }
 ```
